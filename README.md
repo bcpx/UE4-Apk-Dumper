@@ -16,6 +16,8 @@ Note - Like Ue4Dumper you dont need to specify Game Package Name, Only update of
 # How to Use?
 Download Pre Dumped SDKs - https://github.com/Real-Ascarre/UE4-Apk-Dumper/tree/master/Dumped%20SDKs/
 
+Download Pre Built Apk - https://github.com/Real-Ascarre/UE4-Apk-Dumper/releases/
+
 1. Copy the Library file in the correct Game Libs folder (Shared Libraries) - Currently Supported - 32Bit & 64Bit
 2. Rename the dex (dumper apk) to the next number which the game has, For example - If the game has 3 dex file named as classes.dex, classes2.dex & classes3.dex then rename our apk dex as classes4.dex and put inside the game
 3. Open MainActivity file of the Game, For Example - BGMI's MainActivity where we can put our code is "SplashActivity" under "onCreate" Function.
