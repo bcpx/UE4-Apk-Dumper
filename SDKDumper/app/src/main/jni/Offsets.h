@@ -18,9 +18,9 @@ namespace Offsets {
         PointerSize = 0x4,
 
         //Global
-        GWorld = 0x7B2A7F4,
-        GNames = 0x78292D8,
-        GUObjectArray = 0x79B1F20,
+        GWorld = 0x7B28F74,//VNg - 0x7B2A7F4
+        GNames = 0x7827A58,//VNg - 0x78292D8
+        GUObjectArray = 0x79B06A0,//VNg - 0x79B1F20
 
         //Pointers
         GWorldPointer = 0x3C,
