@@ -5,7 +5,7 @@
 #ifndef SDKGENERATOR_OFFSETS_H
 #define SDKGENERATOR_OFFSETS_H
 
-bool isFindGNames = false, isFindGUObject = false, isFindGWorld = false, isStringDump = false, isObjectsDump = false, isSdkDump = false, isSdkWDump = false, isNew = false, isPubgM = false;
+bool isStringDump = false, isObjectsDump = false, isSdkDump = false, isSdkWDump = false, isNew = false, isPubgM = false;
 
 string OutPutPathDirectory("/sdcard/DumpedGames/");
 
