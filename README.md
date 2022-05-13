@@ -6,7 +6,7 @@ NO, it doesn't need Root Privileges.
 
 # How to Build?
 1. Clone the Repo 
-2. Open in Android Studio
+2. Open in Android Studio and Press Trust this Project if prompted
 3. Update only Offsets in Offsets.h
 4. Compile the App and generate Apk
 5. Done
